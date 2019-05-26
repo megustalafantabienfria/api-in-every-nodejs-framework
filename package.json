@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/megustalafantabienfria/api-in-every-nodejs-framework/issues"
   },
-  "homepage": "https://github.com/megustalafantabienfria/api-in-every-nodejs-framework#readme"
+  "homepage": "https://github.com/megustalafantabienfria/api-in-every-nodejs-framework#readme",
+  "dependencies": {}
 }
