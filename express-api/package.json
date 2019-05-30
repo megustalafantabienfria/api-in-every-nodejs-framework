@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "start:dev": "nodemon index",
+    "start": "node -r dotenv/config index",
+    "start:dev": "nodemon -r dotenv/config index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
