@@ -9,6 +9,6 @@ app.use(session({
   saveUninitialized: false
 }));
 
-app.use('user', require('./user/index').routes);
+// app.use('user', require('./user/index').routes);
 
 module.exports = app;
