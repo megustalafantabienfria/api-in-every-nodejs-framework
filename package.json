@@ -20,5 +20,7 @@
     "url": "https://github.com/megustalafantabienfria/api-in-every-nodejs-framework/issues"
   },
   "homepage": "https://github.com/megustalafantabienfria/api-in-every-nodejs-framework#readme",
-  "dependencies": {}
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
 }

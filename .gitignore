@@ -64,7 +64,7 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+#.env As I said, this shouldn't be commented, but it's just an example.
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
